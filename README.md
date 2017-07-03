@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/KrombopulosMike/Flurbo/blob/master/flurbologosmall.png "flurbo")
 
-Flurbo is a coin used as intergalactic space currecny for payment of services and items. Space guns, assasins, and even for an entire afternoon at Blips and Chitz!
+Flurbo is a coin used as intergalactic space currency for payment of services and items. Space guns, assasins, and even for an entire afternoon at Blips and Chitz!
 
 # Features of Flurbo
 
