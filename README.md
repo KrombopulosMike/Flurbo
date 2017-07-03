@@ -14,4 +14,4 @@ Smart contracts cut out the middle-man. Allowing us to maintain our currency fre
 
 # Gromflomites Love Flurbos
 
-Gromflomites trade Flurbos for anything and everything. This is because the Flubro has an algorythm directly tied to the genetic makeup of Gromflomites. They can't get enough flurbos!
+Gromflomites trade Flurbos for anything and everything. This is because the Flurbo has an algorythm directly tied to the genetic makeup of Gromflomites. They can't get enough flurbos!
